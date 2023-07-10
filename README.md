@@ -4,7 +4,8 @@ interface para um sistema de cursos utilizando interface gráfica Java Awt/Swing
 
 1. cadastrar de curso
 
-![image](https://github.com/emilly-soares/CRUD---Cursos-View/assets/54116441/136d1bf2-90be-4371-9190-3f7480e85a45)
+![image](https://github.com/emilly-soares/Java-Courses-View/assets/54116441/e8da57b2-8479-4e45-8fe8-43645d6f4d2e)
+
 
 
 2. alterar curso
