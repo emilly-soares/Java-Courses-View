@@ -38,12 +38,12 @@ interface para um sistema de cursos utilizando interface gráfica Java Awt/Swing
 
 ![1 buscar-titulo](https://github.com/emilly-soares/Java-Courses-View/assets/54116441/4db20f31-5306-4f75-899d-63ae140e43a9)
 
-Autor
-Feito por Emilly Soares 👋🏽 Entre em contato!🚀
-
 10. permitir listar cursos feitos em determinada empresa
 
 ![1 empreasa](https://github.com/emilly-soares/Java-Courses-View/assets/54116441/dbde799a-89ce-4f3f-9849-3bbafc3cc730)
 
+
+Autor
+Feito por Emilly Soares 👋🏽 Entre em contato!🚀
 
 
