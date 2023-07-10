@@ -2,7 +2,7 @@
 Desenvolvendo um conjunto de classes para representar a construção de uma
 interface para um sistema de cursos utilizando interface gráfica Java Awt/Swing.
 
-1. cadastrar de curso
+1. cadastrar curso
 
 ![1 cadastrar](https://github.com/emilly-soares/Java-Courses-View/assets/54116441/351ed6e4-646b-450f-ada2-ceb21f963234)
 
