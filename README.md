@@ -1,4 +1,4 @@
-# Java-Cursos-View
+<h1> Java-Cursos-View</h1>
 Desenvolvendo um conjunto de classes para representar a construção de uma
 interface para um sistema de cursos utilizando interface gráfica Java Awt/Swing.
 
@@ -39,6 +39,9 @@ interface para um sistema de cursos utilizando interface gráfica Java Awt/Swing
 9. permitir pesquisar por palavra do título do curso
 
 ![1 buscar-titulo](https://github.com/emilly-soares/Java-Courses-View/assets/54116441/4db20f31-5306-4f75-899d-63ae140e43a9)
+
+Autor
+Feito por Emilly Soares 👋🏽 Entre em contato!🚀
 
 10. permitir listar cursos feitos em determinada empresa
 
